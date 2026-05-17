@@ -1,7 +1,6 @@
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Şevval%20Tuana%20Kaya&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computer%20Engineer%20%7C%20Aviation%20Management%20%7C%20AI%20%26%20Data%20Science%20Enthusiast&descSize=16&descAlignY=52" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=%C5%9Eevval%20Tuana%20Kaya&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computer%20Engineer%20%7C%20Aviation%20Management%20%7C%20AI%20%26%20Data%20Science%20Enthusiast&descSize=16&descAlignY=52" width="100%"/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+the+future+with+code+%F0%9F%9A%80;Aviation+%26+Tech+Innovator;Passionate+about+AI+%26+Data+Science" alt="Typing SVG" /></a>
 
 <p>
